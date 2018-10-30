@@ -1,0 +1,16 @@
+{
+  "name": "TDP024_server",
+  "description": "A small server snippet for using in laborations as an external API",
+  "version": "1.0.0",
+  "repository": "github:pettergr/TDP024_server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
